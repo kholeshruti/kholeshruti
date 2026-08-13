@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:92A8D1&height=200&section=header&text=Shruti%20Khole&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:92A8D1&height=200&section=header&text=Shruti%20Khole&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%">
 
 <br><br>
 
@@ -68,35 +68,6 @@ I'm a Computer Engineering student at Mumbai University, working toward becoming
 
 <img src="https://raw.githubusercontent.com/kholeshruti/kholeshruti/output/duotone-snake.svg" width="97%" />
 
-<!--
-  Snake generation requires a GitHub Action in this repo:
-  .github/workflows/snake.yml
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches: [ main ]
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: kholeshruti
-            outputs: |
-              dist/duotone-snake.svg?color_snake=%23FF69B4&color_dots=%2392A8D1,%2392A8D1,%23F8BBD0,%23F8BBD0,%23EF93C4
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 <br><br>
 
 ## 🌸 Let's Connect
@@ -106,6 +77,6 @@ I'm a Computer Engineering student at Mumbai University, working toward becoming
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:92A8D1&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=24&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:92A8D1&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
