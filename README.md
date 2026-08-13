@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[YOUR_DARK_BANNER_URL]">
-  <source media="(prefers-color-scheme: light)" srcset="[YOUR_LIGHT_BANNER_URL]">
-  <img alt="Banner" src="[YOUR_LIGHT_BANNER_URL]" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EF93C4,100:92A8D1&height=180&section=header&text=Shruti%20Khole&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Cloud%20Engineer%20in%20the%20making&descAlignY=58&descSize=20" width="100%">
 
 <br><br>
 
