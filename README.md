@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:92A8D1&height=200&section=header&text=Shruti%20Khole&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:92A8D1&height=200&section=header&text=Shruti%20Khole&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20and%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%">
 
 <br><br>
 
@@ -9,7 +9,7 @@
 </h1>
 
 <a href="https://github.com/kholeshruti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&colors=EF93C4,92A8D1&center=true&vCenter=true&width=560&lines=Cloud+Engineer+in+the+making;AWS+%7C+Java+%7C+Python;Building+things+that+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&colors=EF93C4,92A8D1&center=true&vCenter=true&width=560&lines=Cloud+and+AI+Enthusiast;AWS+%7C+Python+%7C+Docker;Automating+the+cloud+with+AI" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -28,11 +28,12 @@
 <tr>
 <td width="65%" valign="middle">
 
-I'm a Computer Engineering student at Mumbai University, working toward becoming a cloud engineer. I build hands-on AWS projects — from serverless backup systems to cost calculators — to turn cloud concepts into real, working infrastructure. Alongside cloud, I've built full-stack applications and I'm always looking for the next thing to break and rebuild until it works.
+I'm a Computer Engineering graduate from Mumbai University, and I'm focusing on cloud and AI. Most of what I've built runs on AWS: a backup system on Lambda, S3 and DynamoDB, a cost calculator I packaged with Docker, and a log summarizer where Gemini turns CloudWatch errors into a short email. I like setting things up so the cloud handles the repetitive parts on its own.
 
-- 🔭 Currently working on: **AWS Cloud Essentials certification prep**
-- 🌱 Learning: **Docker & containerization**
-- 💬 Ask me about: **AWS, cloud architecture, serverless projects**
+- 🔭 Currently building: **Cloud Log Summarizer (CloudWatch, Lambda, Gemini API)**
+- 🌱 Learning: **Docker, Python, and AI APIs**
+- 🏅 Earned: **AWS Cloud Quest: Cloud Essentials badge**
+- 💬 Ask me about: **AWS Lambda, Docker, serverless projects**
 - 📫 Reach me: **skhole43@gmail.com**
 - ⚡ Fun fact: **Silly introvert who somehow ended up loving tech**
 
@@ -49,18 +50,17 @@ I'm a Computer Engineering student at Mumbai University, working toward becoming
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=aws,java,python,mysql,mongodb,docker,git,linux,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,python,docker,mysql,mongodb,git,linux,github&theme=dark" />
 
 <br><br>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kholeshruti&show_icons=true&theme=transparent&title_color=EF93C4&icon_color=92A8D1&text_color=E8E8E8&border_color=EF93C4&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kholeshruti&theme=transparent&hide_border=false&background=00000000&ring=92A8D1&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=E8E8E8&dates=9E9E9E" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=kholeshruti&theme=transparent&hide_border=false&background=00000000&ring=92A8D1&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=E8E8E8&dates=9E9E9E&currStreakNum=E8E8E8&sideNums=E8E8E8&border=EF93C4" width="70%" alt="GitHub streak stats" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kholeshruti&theme=react-dark&hide_border=true&bg_color=00000000&color=92A8D1&line=FF69B4&point=EF93C4&area=true&area_color=F8BBD0" width="97%" />
+<img src="https://ghchart.rshah.org/EF93C4/kholeshruti" width="90%" alt="GitHub contribution chart" />
 
 <br><br>
 
